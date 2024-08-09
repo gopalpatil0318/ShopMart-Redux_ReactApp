@@ -42,7 +42,7 @@ Explore the live version of the application at [Gopal's Corner.](https://gopals-
     npm install
 4. Start the development server:
     ```sh
-    npm start
+    npm run dev
 Open your browser and visit http://localhost:5173 to view the app.
 
 
